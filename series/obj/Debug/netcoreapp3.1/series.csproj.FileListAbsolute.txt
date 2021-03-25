@@ -1,0 +1,13 @@
+C:\Users\hmjussani\Documents\DotNet\dio_2\series\bin\Debug\netcoreapp3.1\series.exe
+C:\Users\hmjussani\Documents\DotNet\dio_2\series\bin\Debug\netcoreapp3.1\series.deps.json
+C:\Users\hmjussani\Documents\DotNet\dio_2\series\bin\Debug\netcoreapp3.1\series.runtimeconfig.json
+C:\Users\hmjussani\Documents\DotNet\dio_2\series\bin\Debug\netcoreapp3.1\series.runtimeconfig.dev.json
+C:\Users\hmjussani\Documents\DotNet\dio_2\series\bin\Debug\netcoreapp3.1\series.dll
+C:\Users\hmjussani\Documents\DotNet\dio_2\series\bin\Debug\netcoreapp3.1\series.pdb
+C:\Users\hmjussani\Documents\DotNet\dio_2\series\obj\Debug\netcoreapp3.1\series.csprojAssemblyReference.cache
+C:\Users\hmjussani\Documents\DotNet\dio_2\series\obj\Debug\netcoreapp3.1\series.AssemblyInfoInputs.cache
+C:\Users\hmjussani\Documents\DotNet\dio_2\series\obj\Debug\netcoreapp3.1\series.AssemblyInfo.cs
+C:\Users\hmjussani\Documents\DotNet\dio_2\series\obj\Debug\netcoreapp3.1\series.csproj.CoreCompileInputs.cache
+C:\Users\hmjussani\Documents\DotNet\dio_2\series\obj\Debug\netcoreapp3.1\series.dll
+C:\Users\hmjussani\Documents\DotNet\dio_2\series\obj\Debug\netcoreapp3.1\series.pdb
+C:\Users\hmjussani\Documents\DotNet\dio_2\series\obj\Debug\netcoreapp3.1\series.genruntimeconfig.cache
